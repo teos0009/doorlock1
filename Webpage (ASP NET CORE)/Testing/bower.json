@@ -1,0 +1,24 @@
+{
+  "name": "Testing",
+  "authors": [
+    "Arke"
+  ],
+  "description": "Nil",
+  "main": "Test.sln",
+  "keywords": [
+    "Nil"
+  ],
+  "license": "Nil",
+  "homepage": "Nil",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mtr-datepicker": "^0.3.8"
+  }
+}

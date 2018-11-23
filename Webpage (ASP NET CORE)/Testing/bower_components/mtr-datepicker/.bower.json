@@ -1,0 +1,47 @@
+{
+  "name": "mtr-datepicker",
+  "version": "0.3.8",
+  "authors": [
+    "Valentin Kirilov <valentin.kirilov@mtr-design.com>",
+    "MTR Design <datepicker@mtr-design.com>"
+  ],
+  "description": "The pure JavaScript ultimate datepicker",
+  "main": "dist/mtr-datepicker.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "images",
+    "scripts",
+    "docs",
+    "demo",
+    "styles",
+    "test",
+    "tests",
+    "Gruntfile.js",
+    "dev.sh",
+    "index.html",
+    "dev.html",
+    "demo.html",
+    "docs.html",
+    ".coveralls.yml",
+    ".travis.yml",
+    "karma.conf.js",
+    "package.json",
+    "apple-touch-icon.png",
+    "releases"
+  ],
+  "homepage": "https://github.com/mtrdesign/mtr-datepicker",
+  "_release": "0.3.8",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.8",
+    "commit": "27ad51c1ba267c71e320460a7cc43c7946463b47"
+  },
+  "_source": "https://github.com/mtrdesign/mtr-datepicker.git",
+  "_target": "^0.3.8",
+  "_originalSource": "mtr-datepicker",
+  "_direct": true
+}
